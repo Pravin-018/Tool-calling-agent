@@ -1,0 +1,19 @@
+product_id,product_name,category,quantity,reorder_level,supplier,daily_sales
+P001,Masala Chai Tea,Tea and Coffee,42,20,Sunrise Wholesale,3.5
+P002,Arabica Coffee Beans,Tea and Coffee,12,18,Northstar Foods,2.0
+P003,Green Tea Bags,Tea and Coffee,9,15,Sunrise Wholesale,1.2
+P004,Whole Milk 1L,Dairy,28,24,Meadowbrook Supply,8.0
+P005,Cheddar Cheese 200g,Dairy,7,12,Meadowbrook Supply,1.5
+P006,Greek Yogurt 500g,Dairy,16,10,Meadowbrook Supply,2.4
+P007,Whole Wheat Bread,Bakery,5,14,Cornerstone Bakery,6.0
+P008,Butter Croissants,Bakery,18,12,Cornerstone Bakery,4.0
+P009,Basmati Rice 5kg,Pantry,22,10,Harvest Lane Trading,0.8
+P010,Red Lentils 1kg,Pantry,8,16,Harvest Lane Trading,1.1
+P011,Tomato Pasta Sauce,Pantry,11,12,Harvest Lane Trading,1.3
+P012,Orange Juice 1L,Drinks,6,15,Blue Finch Distributors,3.0
+P013,Sparkling Water 750ml,Drinks,36,20,Blue Finch Distributors,5.0
+P014,Dark Chocolate Bar,Sweets,4,10,Copper Kettle Wholesale,1.8
+P015,Sea Salt Potato Chips,Sweets,19,16,Copper Kettle Wholesale,2.7
+P016,Hand Soap 250ml,Household,13,10,Willow Market Supply,0.9
+P017,Paper Towels 2-Pack,Household,3,12,Willow Market Supply,0.7
+P018,Peanut Butter 340g,Pantry,14,12,Harvest Lane Trading,1.0
